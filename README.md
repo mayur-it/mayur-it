@@ -4,7 +4,6 @@
 
 - 🚀 Senior Software Engineer at [Epallet, Inc.](https://epallet.com/) (Remote, USA) — B2B e-commerce platform
 - 🤖 Building AI-powered systems with LLMs, RAG, OpenAI APIs, and Claude
-- 🎓 Pursuing M.Sc. Machine Learning & Data Analytics at [Aalen University](https://www.hs-aalen.de/), Germany
 - 💡 9+ years of experience in Python, distributed systems, and cloud infrastructure
 - 📍 Based in Aalen, Germany
 
