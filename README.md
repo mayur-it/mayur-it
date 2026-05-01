@@ -38,6 +38,9 @@
 
 <h2>Here is My Stats..</h2>
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayur-it&theme=github-compact&hide_border=true&area=true)
+
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
