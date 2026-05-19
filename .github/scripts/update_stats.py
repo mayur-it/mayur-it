@@ -51,8 +51,8 @@ def get_waka_alltime():
 def get_day_distribution():
     """Commits by day-of-week from the GitHub contribution calendar (last year)."""
     query = """
-    query($login: String!) {
-      user(login: $login) {
+    {
+      viewer {
         contributionsCollection {
           contributionCalendar {
             weeks {
@@ -65,13 +65,13 @@ def get_day_distribution():
     """
     r = requests.post(
         "https://api.github.com/graphql",
-        json={"query": query, "variables": {"login": GH_USERNAME}},
+        json={"query": query},
         headers=gh_headers(),
         timeout=30,
     )
     r.raise_for_status()
     weeks = (
-        r.json()["data"]["user"]["contributionsCollection"]
+        r.json()["data"]["viewer"]["contributionsCollection"]
         ["contributionCalendar"]["weeks"]
     )
     counts = defaultdict(int)
