@@ -40,6 +40,10 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayur-it&theme=github-compact&hide_border=true&area=true)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayur-it&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur-it&layout=compact&count_private=true&hide_border=true&theme=default" height="165" />
+</p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2026%20mins-blue?style=flat)
