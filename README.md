@@ -46,14 +46,14 @@
 </p>
 
 <!--START_SECTION:waka-->
-![All Time Code](https://img.shields.io/badge/All%20Time%20Coding-458%20hrs%204%20mins-blue?style=flat)
+![All Time Code](https://img.shields.io/badge/All%20Time%20Coding-467%20hrs%209%20mins-blue?style=flat)
 
 **I'm an Early 🐤**
 
 ```text
-🌞 Morning              29    commits    ████████████████░░░░░░░░░   65.91 %
-🌆 Daytime              2     commits    █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-🌃 Evening              13    commits    ███████░░░░░░░░░░░░░░░░░░   29.55 %
+🌞 Morning              29    commits    ████████████████░░░░░░░░░   64.44 %
+🌆 Daytime              2     commits    █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+🌃 Evening              14    commits    ████████░░░░░░░░░░░░░░░░░   31.11 %
 🌙 Night                0     commits    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
@@ -72,15 +72,15 @@ Sunday                    0    commits    ░░░░░░░░░░░░�
 💬 **Top Languages (All Time)**
 
 ```text
-Other                350 hrs 49 mins        ███████████████████░░░░░░   76.59 %
-Python               65 hrs 44 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.35 %
-JavaScript           14 hrs 21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-HTML                 11 hrs 34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-CSS                  4 hrs 14 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Markdown             3 hrs 16 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Other                355 hrs 31 mins        ███████████████████░░░░░░   76.10 %
+Python               68 hrs 41 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.70 %
+JavaScript           14 hrs 41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+HTML                 11 hrs 52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+CSS                  4 hrs 46 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Markdown             3 hrs 32 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
- Last Updated on 23/07/2026 19:55:05 UTC
+ Last Updated on 24/07/2026 19:54:25 UTC
 <!--END_SECTION:waka-->
 
 
