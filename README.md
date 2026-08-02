@@ -46,7 +46,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![All Time Code](https://img.shields.io/badge/All%20Time%20Coding-512%20hrs%207%20mins-blue?style=flat)
+![All Time Code](https://img.shields.io/badge/All%20Time%20Coding-515%20hrs%2052%20mins-blue?style=flat)
 
 **I'm an Early 🐤**
 
@@ -72,15 +72,15 @@ Sunday                    0    commits    ░░░░░░░░░░░░�
 💬 **Top Languages (All Time)**
 
 ```text
-Other                373 hrs 24 mins        ██████████████████░░░░░░░   72.91 %
-Python               84 hrs 38 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
-JavaScript           17 hrs 41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-HTML                 15 hrs 6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-CSS                  9 hrs 16 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-Markdown             3 hrs 48 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Other                373 hrs 57 mins        ██████████████████░░░░░░░   72.49 %
+Python               86 hrs 48 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.83 %
+JavaScript           17 hrs 48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+HTML                 15 hrs 23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+CSS                  9 hrs 51 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Markdown             3 hrs 53 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
- Last Updated on 01/08/2026 19:42:38 UTC
+ Last Updated on 02/08/2026 19:42:13 UTC
 <!--END_SECTION:waka-->
 
 
