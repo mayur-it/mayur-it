@@ -46,25 +46,25 @@
 </p>
 
 <!--START_SECTION:waka-->
-![All Time Code](https://img.shields.io/badge/All%20Time%20Coding-568%20hrs%2057%20mins-blue?style=flat)
+![All Time Code](https://img.shields.io/badge/All%20Time%20Coding-572%20hrs%2046%20mins-blue?style=flat)
 
-**I'm an Evening Coder 🌆**
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning              18    commits    ██████████░░░░░░░░░░░░░░░   38.30 %
-🌆 Daytime              8     commits    ████░░░░░░░░░░░░░░░░░░░░░   17.02 %
-🌃 Evening              20    commits    ███████████░░░░░░░░░░░░░░   42.55 %
-🌙 Night                1     commits    █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+🌞 Morning              20    commits    ████████████░░░░░░░░░░░░░   48.78 %
+🌆 Daytime              5     commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+🌃 Evening              15    commits    █████████░░░░░░░░░░░░░░░░   36.59 %
+🌙 Night                1     commits    █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday                    9    commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.11 %
-Tuesday                   32   commits    ██████████░░░░░░░░░░░░░░░   39.51 %
-Wednesday                 22   commits    ███████░░░░░░░░░░░░░░░░░░   27.16 %
-Thursday                  9    commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.11 %
-Friday                    9    commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+Monday                    9    commits    ███░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+Tuesday                   32   commits    ██████████░░░░░░░░░░░░░░░   38.55 %
+Wednesday                 24   commits    ███████░░░░░░░░░░░░░░░░░░   28.92 %
+Thursday                  9    commits    ███░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+Friday                    9    commits    ███░░░░░░░░░░░░░░░░░░░░░░   10.84 %
 Saturday                  0    commits    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Sunday                    0    commits    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
@@ -72,15 +72,15 @@ Sunday                    0    commits    ░░░░░░░░░░░░�
 💬 **Top Languages (All Time)**
 
 ```text
-Other                400 hrs 44 mins        ██████████████████░░░░░░░   70.44 %
-Python               102 hrs 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.95 %
-JavaScript           23 hrs 7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-HTML                 18 hrs 3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-CSS                  11 hrs 37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Markdown             4 hrs 57 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Other                403 hrs 18 mins        ██████████████████░░░░░░░   70.41 %
+Python               102 hrs 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.95 %
+JavaScript           23 hrs 10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+HTML                 18 hrs 12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+CSS                  11 hrs 37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Markdown             5 hrs 21 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
- Last Updated on 11/08/2026 19:34:02 UTC
+ Last Updated on 12/08/2026 19:36:11 UTC
 <!--END_SECTION:waka-->
 
 
